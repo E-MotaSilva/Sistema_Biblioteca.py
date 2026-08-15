@@ -31,18 +31,18 @@ Sistema de gerenciamento de biblioteca desenvolvido em **Python** para praticar 
 - Terminal/Console
 - Sem bibliotecas externas
 
-⚠️ Observação
+##⚠️ Observação
 
 Atualmente, os dados são armazenados apenas durante a execução do programa. Ao encerrá-lo, os dados cadastrados são perdidos.
 
-🚀 Próximos passos
+##🚀 Próximos passos
  Persistência de dados com JSON
  Implementação de banco de dados
  Validação de CPF
  Melhor tratamento de erros
  Interface gráfica
  Programação Orientada a Objetos
-👨‍💻 Autor
+##👨‍💻 Autor
 
 Eduardo Silva
 
