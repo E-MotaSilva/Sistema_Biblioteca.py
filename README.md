@@ -42,8 +42,9 @@ Atualmente, os dados são armazenados apenas durante a execução do programa. A
  Melhor tratamento de erros
  Interface gráfica
  Programação Orientada a Objetos
+ 
 ## 👨‍💻 Autor
 
-Eduardo Silva
+ Eduardo Silva
 
-Projeto desenvolvido para prática e evolução dos conhecimentos em Python.
+ Projeto desenvolvido para prática e evolução dos conhecimentos em Python.
