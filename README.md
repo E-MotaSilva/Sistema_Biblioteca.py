@@ -31,9 +31,19 @@ Sistema de gerenciamento de biblioteca desenvolvido em **Python** para praticar 
 - Terminal/Console
 - Sem bibliotecas externas
 
-## ▶️ Como executar
+⚠️ Observação
 
-Clone o repositório:
+Atualmente, os dados são armazenados apenas durante a execução do programa. Ao encerrá-lo, os dados cadastrados são perdidos.
 
-```bash
-git clone URL_DO_REPOSITORIO
+🚀 Próximos passos
+ Persistência de dados com JSON
+ Implementação de banco de dados
+ Validação de CPF
+ Melhor tratamento de erros
+ Interface gráfica
+ Programação Orientada a Objetos
+👨‍💻 Autor
+
+Eduardo Silva
+
+Projeto desenvolvido para prática e evolução dos conhecimentos em Python.
