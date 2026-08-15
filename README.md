@@ -36,15 +36,16 @@ Sistema de gerenciamento de biblioteca desenvolvido em **Python** para praticar 
 Atualmente, os dados são armazenados apenas durante a execução do programa. Ao encerrá-lo, os dados cadastrados são perdidos.
 
 ## 🚀 Próximos passos
- Persistência de dados com JSON
- Implementação de banco de dados
- Validação de CPF
- Melhor tratamento de erros
- Interface gráfica
- Programação Orientada a Objetos
+
+- Persistência de dados com JSON
+- Implementação de banco de dados
+- Validação de CPF
+- Melhor tratamento de erros
+- Interface gráfica
+- Programação Orientada a Objetos
  
 ## 👨‍💻 Autor
 
- Eduardo Silva
+- Eduardo Silva
 
  Projeto desenvolvido para prática e evolução dos conhecimentos em Python.
