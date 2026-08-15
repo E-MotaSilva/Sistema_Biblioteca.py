@@ -1,56 +1,39 @@
 # 📚 Sistema de Biblioteca em Python
 
-Sistema de gerenciamento de uma biblioteca desenvolvido em **Python**, com o objetivo de praticar conceitos fundamentais da linguagem, principalmente **funções, listas, dicionários, estruturas de repetição, condicionais e manipulação de dados**.
-
-O projeto permite realizar o cadastro e consulta de clientes e livros, além de controlar empréstimos e devoluções.
-
----
-
-## 🎯 Objetivo
-
-Este projeto foi desenvolvido como prática de programação em Python e busca simular as principais operações de uma biblioteca através de um sistema executado no terminal.
-
-Durante o desenvolvimento foram praticados conceitos como:
-
-- Funções e parâmetros
-- Listas
-- Dicionários
-- Métodos de listas
-- Estruturas `for` e `while`
-- Estruturas condicionais `if`, `elif` e `else`
-- Entrada e tratamento básico de dados
-- Manipulação de estruturas de dados
-- Controle de estoque
-- Relacionamento entre clientes e livros
-- Uso de `return`
-- Alteração de dados através de funções
-
----
+Sistema de gerenciamento de biblioteca desenvolvido em **Python** para praticar conceitos fundamentais da linguagem, como funções, listas, dicionários, estruturas condicionais e de repetição.
 
 ## ⚙️ Funcionalidades
 
-O sistema possui um menu principal com as seguintes opções:
+- 👤 Cadastro de clientes
+- 🔎 Consulta de clientes por nome ou CPF
+- 📖 Cadastro de livros
+- 🔍 Consulta de livros por nome, autor ou ano
+- 📤 Empréstimo de livros
+- 📥 Devolução de livros
+- 📊 Controle de quantidade disponível
+- 📝 Registro dos livros em posse de cada cliente
+- 🗑️ Remoção de livros
+- ➕ Alteração da quantidade de livros cadastrados
 
-### 👤 Cadastro de clientes
+## 🧠 Conceitos praticados
 
-Permite cadastrar novos clientes informando:
+- Funções e parâmetros
+- Listas e dicionários
+- Métodos `append()` e `remove()`
+- Estruturas `for` e `while`
+- Condicionais `if`, `elif` e `else`
+- Variáveis booleanas
+- Manipulação de dados entre funções
 
-- Nome
-- CPF
-- Sobrenome
+## 💻 Tecnologias
 
-Também mantém informações sobre:
+- Python 3
+- Terminal/Console
+- Sem bibliotecas externas
 
-- Quantidade de livros emprestados
-- Livros que estão atualmente com o cliente
+## ▶️ Como executar
 
-Exemplo de estrutura utilizada:
+Clone o repositório:
 
-```python
-{
-    'nome': 'EDUARDO',
-    'cpf': 123456,
-    'sobrenome': 'SILVA',
-    'emprestados': 2,
-    'livros': ['HARRY POTTER', 'O HOBBIT']
-}
+```bash
+git clone URL_DO_REPOSITORIO
