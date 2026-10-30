@@ -37,12 +37,12 @@ Atualmente, os dados são armazenados apenas durante a execução do programa. A
 
 ## 🚀 Próximos passos
 
-- Persistência de dados com JSON
-- Implementação de banco de dados
-- Validação de CPF
-- Melhor tratamento de erros
+- Persistência de dados com SQL - FEITO
+- Implementação de banco de dados - FEITO
+- Validação de CPF - FEITO
+- Melhor tratamento de erros - FEITO
 - Interface gráfica
-- Programação Orientada a Objetos
+- Programação Orientada a Objetos - FEITO
 
 ## 🆕 Atualizações do projeto
 
